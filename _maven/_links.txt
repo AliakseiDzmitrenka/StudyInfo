@@ -1,0 +1,4 @@
+http://www.apache-maven.ru/quick_start.html //easy start maven
+
+http://www.mkyong.com/maven/how-to-create-a-java-project-with-maven/     //more
+http://www.mkyong.com/maven/how-to-install-maven-in-windows/		//info	
