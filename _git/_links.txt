@@ -1,0 +1,3 @@
+https://help.github.com/articles/generating-ssh-keys	//help for SHH keys generation.
+
+http://habrahabr.ru/post/150673/    		        //Book for GIT.
