@@ -1,0 +1,13 @@
+\n\s*(@|class|void)(.+[^}]\s)+(}\n)+	// for code
+
+([\n\t][\d|A-Z|].+)			// for text but not ready
+
+
+
+
+
+
+(\n\s*(class|void)(.+[^}]\s)+(}\n)+)|(\d?(.[^}])?[\n\t]( ){0,4}[\d|A-Z].+)
+
+
+(\n(class|void)(.+[^}]\s)+(}\n)+)|(\d?(.[^}])?[\n\t]*( ){0,4}[\d|A-Z].+)
